@@ -1,2 +1,7 @@
 theme: cayman
 remote_theme: b2a3e8/jekyll-theme-console
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
